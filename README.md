@@ -13,6 +13,6 @@ This is a static website hosted on GitHub Pages to provide information about the
 
 To explore the site:
 
-1. Open [this GitHub Pages link](https://yourusername.github.io/reaper-leviathan-site).
+1. Open [this GitHub Pages link](https://yourusername.tbperson.github.io
 2. Browse through sections for details on the Reaper Leviathan.
 3. For more information, check the GitHub repository for site code and updates.
